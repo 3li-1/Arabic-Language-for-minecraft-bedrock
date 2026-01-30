@@ -7,7 +7,7 @@
 
 0- example=example
 
-1- لازم تسوي fork (صورة لموقع الfork [الصورة](https://github.com/3li-1/Arabic-Language-for-minecraft-bedrock/blob/main/Other-(dont-open-it)/picture.png))
+1- لازم تسوي fork (صورة لموقع الfork [الصورة](https://github.com/3li-1/Arabic-Language-for-minecraft-bedrock/blob/main/Other-(dont-open-it)/picture.png)) وبعدها لازم create fork
 
  1- لازم تترجم معنى الترجمه مثلا example يكون معناها "مثال"
  
@@ -15,4 +15,4 @@
 
 3- كيف الان احطها في المشروع الرسمي ترجمتي ؟
 
-عشان تحطها لازم 
+عشان تحطها لازم تدخل على الfork وبعدها تعدل داخل الfork وبعدها سوي pull request وبعدين لازم انا قبلها وكذا تتم العملية بنجاح 
