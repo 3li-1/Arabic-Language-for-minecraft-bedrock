@@ -7,7 +7,7 @@
 
 0- example=example
 
-1- لازم تسوي fork (صورة لموقع الfork [الصورة]())
+1- لازم تسوي fork (صورة لموقع الfork [الصورة](https://github.com/3li-1/Arabic-Language-for-minecraft-bedrock/blob/main/Other-(dont-open-it)/picture.png))
 
  1- لازم تترجم معنى الترجمه مثلا example يكون معناها "مثال"
  
