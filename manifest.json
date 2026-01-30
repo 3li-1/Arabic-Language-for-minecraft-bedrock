@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "ﺔﻴﺑﺮﻌﻟﺍ",
+    "description": "arabic language in minecraft !! Version[1.0.3]",
+    "uuid": "da852780-a180-4f9f-86ce-d5170497354c",
+    "version": [
+      1,
+      0,
+      3
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "d51607c7-6e0d-4b73-9543-cf5bf5e917c7",
+      "version": [
+        1,
+        0,
+        3
+      ]
+    }
+  ]
+}
