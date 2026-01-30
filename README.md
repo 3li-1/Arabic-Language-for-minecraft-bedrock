@@ -1,2 +1,4 @@
 # Arabic-Language-for-minecraft-bedrock
-this is a minecraft bedrock texturepack for add arabic language to minecraft (:
+بكل اختصار هو مشروع هدفه اضافة اللغة العربية الى ماينكرافت
+كيف يمكنك المساهمة في تطويرها ؟
+اذا اردت ان تساهم في التطوير ادخل الى موقع [Github](https://github.com/3li-1/Arabic-Language-for-minecraft-bedrock/) 
